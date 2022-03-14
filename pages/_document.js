@@ -32,7 +32,7 @@ export default class MyDocument extends Document {
             rel="stylesheet"
           />
         </Head>
-        <body>
+        <body style={{backgroundColor: '#fafafa'}}>
           <Main />
           <NextScript />
         </body>
